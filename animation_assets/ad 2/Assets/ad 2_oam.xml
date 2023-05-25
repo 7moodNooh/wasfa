@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<widget xmlns="http://openajax.org/metadata" spec="1.0" name="ad 2" version="1">
+
+<description type="text/html"><![CDATA[Widget Exported from Flash Professional]]></description>
+
+<category name="Flash Animation"/>
+<remarks>Compatible with: InDesign CC, Dreamweaver CC, Muse</remarks>
+<icon src="PosterImg_76.png" width="300" height="250"/>
+<require type="other" src="Untitled-1.html"/>
+<require type="javascript" src="Untitled-1.js"/>
+<require type="image" src="images/bcpngcopy.png"/>
+<require type="image" src="images/chefpngcopy.png"/>
+<require type="image" src="images/crclpngcopy.png"/>
+<require type="image" src="images/photo1pngcopy.png"/>
+<require type="image" src="images/Untitled_1_atlas_1.png"/>
+<require type="image" src="images/Untitled_1_atlas_2.png"/>
+<require type="image" src="images/Untitled_1_atlas_3.png"/>
+<require type="image" src="images/Untitled_1_atlas_4.png"/>
+<require type="image" src="images/Untitled_4_atlas_1.png"/>
+<require type="folder" src="images"/>
+<content></content>
+
+<properties name="Properties">
+<property name="default-width" defaultValue="300" hidden="true"/>
+<property name="default-height" defaultValue="250" hidden="true"/>
+<property name="resizable" defaultValue="false" hidden="true"/>
+<property name="centering" defaultValue="" hidden="true"/>
+<property name="scaling" defaultValue="" hidden="true"/>
+<property name="html-page" defaultValue="Untitled-1.html" hidden="true"/>
+<property name="target-platform" defaultValue="htmlcanvas" hidden="true"/>
+<property name="created-in" defaultValue="Adobe Animate CC" hidden="true"/>
+</properties>
+
+</widget>

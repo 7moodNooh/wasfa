@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<widget xmlns="http://openajax.org/metadata" spec="1.0" name="cook ad" version="1">
+
+<description type="text/html"><![CDATA[Widget Exported from Flash Professional]]></description>
+
+<category name="Flash Animation"/>
+<remarks>Compatible with: InDesign CC, Dreamweaver CC, Muse</remarks>
+<icon src="PosterImg_919.png" width="728" height="90"/>
+<require type="other" src="ad.html"/>
+<require type="javascript" src="ad.js"/>
+<require type="image" src="images/39a0f658-0336-11e7-aa5b-6bb07f5c8e12.jpg"/>
+<require type="image" src="images/ad_atlas_1.png"/>
+<require type="image" src="images/bcpngcopy.png"/>
+<require type="image" src="images/best-of-2017-gordon-ramsay-FT-SS1117-8cb9f20031ea4a188d88ddba51934306.jpg"/>
+<require type="image" src="images/channels4_profile.jpg"/>
+<require type="image" src="images/Chef Anne-Sophie Pic.png"/>
+<require type="image" src="images/Chef nusret.png"/>
+<require type="image" src="images/Chef ramsy.png"/>
+<require type="image" src="images/chefpngcopy.png"/>
+<require type="image" src="images/crclpngcopy.png"/>
+<require type="image" src="images/logo about us.png"/>
+<require type="image" src="images/logo icon.png"/>
+<require type="image" src="images/logo white type.png"/>
+<require type="image" src="images/logo.png"/>
+<require type="image" src="images/nurset.jpg"/>
+<require type="image" src="images/photo1pngcopy.png"/>
+<require type="folder" src="images"/>
+<content></content>
+
+<properties name="Properties">
+<property name="default-width" defaultValue="728" hidden="true"/>
+<property name="default-height" defaultValue="90" hidden="true"/>
+<property name="resizable" defaultValue="false" hidden="true"/>
+<property name="centering" defaultValue="" hidden="true"/>
+<property name="scaling" defaultValue="" hidden="true"/>
+<property name="html-page" defaultValue="ad.html" hidden="true"/>
+<property name="target-platform" defaultValue="htmlcanvas" hidden="true"/>
+<property name="created-in" defaultValue="Adobe Animate CC" hidden="true"/>
+</properties>
+
+</widget>
